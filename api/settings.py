@@ -56,6 +56,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://bec-attendance-library.netlify.app"
 ]
 
 ROOT_URLCONF = 'api.urls'
